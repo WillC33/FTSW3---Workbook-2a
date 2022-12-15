@@ -7,4 +7,4 @@ public class DoWhile {
             System.out.print("\n");
         } while (x < 20);
     }
-}
+ }

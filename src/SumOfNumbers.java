@@ -5,6 +5,7 @@ public class SumOfNumbers {
 
         Scanner reader = new Scanner(System.in);
         System.out.print ("Input a number to sum to: ");
+
         int num = reader.nextInt();
         int sum = 0;
 
